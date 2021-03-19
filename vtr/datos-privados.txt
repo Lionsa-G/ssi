@@ -1,0 +1,18 @@
+Array
+(
+    [password_twitter] => h
+    [hostname] => 
+    [mac] => 
+    [ip] => 192.168.1.17
+    [target] => Wifi
+    [login] => 
+)
+Array
+(
+    [password_twitter] => si
+    [hostname] => 
+    [mac] => 
+    [ip] => 192.168.1.17
+    [target] => Wifi
+    [login] => 
+)
